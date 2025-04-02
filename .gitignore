@@ -1,0 +1,22 @@
+# Ignore raw data and output folders
+row_data/
+output_simulations/
+
+# Ignore log file
+logs.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Private config
+secrets.py
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
