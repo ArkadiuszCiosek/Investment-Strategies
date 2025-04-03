@@ -1,2 +1,1 @@
-API_KEY = "abc123"
-SECRET_TOKEN = "super_secret_value"
+API_PROFIT_KEY = "979b87d860da4871b9a3166ad55b1421"

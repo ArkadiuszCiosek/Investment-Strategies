@@ -1,7 +1,8 @@
 # Ignore raw data and output folders
 row_data/
+row_data2/
 output_simulations/
-
+output_simulations2/
 # Ignore log file
 logs.txt
 
