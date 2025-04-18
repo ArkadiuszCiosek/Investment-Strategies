@@ -3,6 +3,7 @@ row_data/
 row_data2/
 output_simulations/
 output_simulations2/
+Charts/
 # Ignore log file
 logs.txt
 
