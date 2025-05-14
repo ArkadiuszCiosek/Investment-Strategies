@@ -1,0 +1,19 @@
+name: algo-bot
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy=1.23
+  - pandas
+  - openpyxl
+  - matplotlib
+  - gensim
+  - fuzzytm
+  - requests
+  - jupyter
+  - ta-lib        
+  - pip
+  - pip:
+      - xlrd
+      - ccxt
